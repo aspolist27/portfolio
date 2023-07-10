@@ -1,0 +1,33 @@
+{
+    "experiences": [
+        {
+            "title": "Software Engineer",
+            "subtitle": "Innovative Code Labs Pvt. Ltd.",
+            "workType": "Full-time",
+            "workDescription": [
+                "Worked on 4 projects (marketplaces)",
+                "Implemented Search functionality using **Algolia**",
+                "Implemented Chatting Module (frontend + backend) using **socket.io**",
+                "Worked on integration of stripe ACH payments & payouts system in marketplace",
+                "Developing APIs and performing **CRUD** operations to enable efficient data management",
+                "Collaborating closely with clients to understand their requirements and tailored development accordingly",
+                "**Technology**: MERN stack (MongoDB, Express.js, React.js, Node.js), **Sharetribe** (low code platform), **AWS S3**, **AWS Lambda**, **Stripe**"
+            ],
+            "dateText": "02/2023 – Present"
+        },
+        {
+            "title": "Software Engineer",
+            "subtitle": "Inflolabs Pvt. Ltd.",
+            "workType": "Full-time",
+            "workDescription": [
+                "Developed **Advertising Framework**, **Storefront Optimization**, **Multiple Payment Gateways**  and **Guiding Tour** functionalities.",
+                "Led frontend development for the **InternetTV** module.",
+                "Implemented APIs and performed CRUD operations for seamless data management.",
+                "Utilized MERN stack, **GraphQL**, and **microservices architecture** to enhance platform performance and scalability.",
+                "Leveraged Node.js, Express.js, PostgreSQL, and GraphQL for efficient data management and retrieval.",
+                "Tech Involved: **NodeJS**, **ReactJS**, **NextJS**, **Redux**, **GraphQL**, **Videojs**, **React Joyride**, **Jest** Unit Testing"
+            ],
+            "dateText": "08/2021 – 01/2023"
+        }
+    ]
+}

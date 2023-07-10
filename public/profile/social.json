@@ -1,0 +1,16 @@
+{
+    "social": [
+        {
+            "network" : "linkedin",
+            "href": "https://www.linkedin.com/in/akshatsoni8055/"
+        },
+        {
+            "network" : "github",
+            "href": "https://github.com/akshatsoni8055/"
+        },
+        {
+            "network" : "email",
+            "href": "mailto:akshatsoni8055@gmail.com"
+        }
+    ]
+}

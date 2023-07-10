@@ -1,0 +1,132 @@
+{
+    "projects": [
+        {
+            "image": "images/projects/springballgame.png",
+            "title": "Spring Ball Game",
+            "bodyText": "- Game using **Vanilla JS**. \n - Levels, Pause/Resume.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/akshatsoni8055/spring-ball"
+                },
+                {
+                    "text": "Live",
+                    "href": "https://akshatsoni8055.github.io/spring-ball/"
+                }
+            ],
+            "tags": [
+                "HTML",
+                "CSS",
+                "JavaScript"
+            ]
+        },
+        {
+            "image": "images/projects/dsa375.png",
+            "title": "DSA 375 Tracker",
+            "bodyText": "- A progress tracker of 375 IMP questions using **ReactJS** for Students. \n - Students can filter question according to difficulty level, topics, solved/unsolved.\n - Using **Localstorage** to save their progress",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/akshatsoni8055/dsa375"
+                },
+                {
+                    "text": "Live",
+                    "href": "https://akshatsoni8055.github.io/dsa375/"
+                }
+            ],
+            "tags": [
+                "React",
+                "Redux",
+                "MaterialUI",
+                "Heroku"
+            ]
+        },
+        {
+            "image": "images/projects/weather.png",
+            "title": "Weather App",
+            "bodyText": "- A Web App that loads data from Open Weather API and show in both **Widget** and **GridLayout**.\n - Facilates Search by Location, City, zip code",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/akshatsoni8055/allProjects"
+                },
+                {
+                    "text": "Live",
+                    "href": "https://akshatsoni.onrender.com"
+                }
+            ],
+            "tags": [
+                "HTML",
+                "CSS",
+                "JavaScript"
+            ]
+        },
+        {
+            "image" : "images/projects/portfolio-poster.png",
+            "title": "Dev Portfolio",
+            "bodyText": "- Developer Portfolio Website made in React\n -  Fully customisable and dynamic, easily change data and images.\n - Dark Mode Support",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/akshatsoni8055/portfolio"
+                },
+                {
+                    "text": "Live",
+                    "href": "https://akshatsoni8055.github.io/portfolio"
+                }
+            ],
+            "tags" : [
+                "React",
+                "Portfolio",
+                "JavaScript"
+            ]
+        },
+        {
+            "image": "images/projects/hbd.png",
+            "title": "Happy Birthday Wisher",
+            "bodyText": "- A Web App that can be used to wish someone in a unique way. \n - Just type **text** & upload **images** then share **generated URL** with the person. \n - Surprize them to wish in a unique way",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/akshatsoni8055/allProjects"
+                },
+                {
+                    "text": "Live",
+                    "href": "https://akshatsoni.onrender.com/hbd"
+                }
+            ],
+            "tags": [
+                "HTML",
+                "CSS",
+                "JavaScript",
+                "NodeJS",
+                "MongoDB"
+            ]
+        },
+        {
+            "title": "Secure Messaging WebApp",
+            "image": "images/projects/messanger.png",
+            "bodyText": "- A React App that allows users to send texts in real time using **socket.io**.\n - End to End encryption using **RSA** Algorithm.\n - Uses **MongoDB** database to store texts & user profile data.\n - Facilates **Social Media Auth**. \n - Passwords are secured with **hashing** technique \n - Using **nodemailer** for mailing",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/akshatsoni8055/allProjects"
+                },
+                {
+                    "text": "Live",
+                    "href": "https://akshatsoni.onrender.com/inbox"
+                }
+            ],
+            "tags": [
+                "HTML",
+                "CSS",
+                "JavaScript",
+                "Socket.io",
+                "NodeJS",
+                "MongoDB",
+                "Hash",
+                "RSA"
+            ]
+        }
+    ]
+}

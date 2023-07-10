@@ -1,0 +1,25 @@
+{
+    "education":[
+        {
+            "title": "Oct 2021 - May 2023",
+            "cardTitle": "Masters in Computer Application",
+            "cardSubtitle":"LNCT, Bhopal",
+            "cardDetailedText": "CGPA - 8.2",
+            "icon" : {
+                "src": "images/education/lorem-ipsum.png"
+            }
+        },
+        {
+            "title": "Aug 2017 - Mar 2020",
+            "cardTitle": "B.Sc. Information Tech.",
+            "cardSubtitle":"SNPG College, Khandwa",
+            "cardDetailedText": "Marks - 62%"
+        },
+        {
+            "title": "Apr 2015 - Mar 2017",
+            "cardTitle": "Hign School",
+            "cardSubtitle":"Kendriya Vidyalaya, Khandwa",
+            "cardDetailedText": "Marks - 75%"
+        }
+    ]
+}
