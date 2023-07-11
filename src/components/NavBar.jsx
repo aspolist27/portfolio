@@ -16,6 +16,7 @@ const styles = {
 
 const ExternalNavLink = styled.a`
   color: ${(props) => props.theme.navbarTheme.linkColor};
+  padding: 5px;
   &:hover {
     color: ${(props) => props.theme.navbarTheme.linkHoverColor};
   }
@@ -26,6 +27,7 @@ const ExternalNavLink = styled.a`
 
 const InternalNavLink = styled(NavLink)`
   color: ${(props) => props.theme.navbarTheme.linkColor};
+  padding: 5px;
   &:hover {
     color: ${(props) => props.theme.navbarTheme.linkHoverColor};
   }
@@ -59,6 +61,7 @@ const NavBar = () => {
       fixed="top"
       bg="dark"
       variant="dark"
+      expanded={expanded}
       expand='sm' >
       <Container fluid>
         <Navbar.Brand href="/portfolio/">
@@ -73,14 +76,14 @@ const NavBar = () => {
             }
           />
         </Navbar.Brand>
-        <Navbar.Toggle aria-controls={`offcanvasNavbar-expand-sm`} />
+        <Navbar.Toggle aria-controls={`offcanvasNavbar-expand-sm`} onClick={() => setExpanded(!expanded)} />
         <Navbar.Offcanvas
           id={`offcanvasNavbar-expand-sm`}
           aria-labelledby={`offcanvasNavbarLabel-expand-sm`}
-          placement="end"
+          placement="start"
           className='bg-dark'
         >
-          <Offcanvas.Header closeButton>
+          <Offcanvas.Header onHide={()=>setExpanded(false) } closeVariant='white' closeButton>
             <Offcanvas.Title id={`offcanvasNavbarLabel-expand-sm`}>
               <Navbar.Brand href="/portfolio/">
                 <img
