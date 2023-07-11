@@ -3,6 +3,10 @@
   "version": "0.1.0",
   "private": true,
   "homepage": "https://akshatsoni8055.github.io/portfolio/",
+   "engines": {
+    "node": "14.16.1",
+    "npm": "6.4.12"
+  },
   "dependencies": {
     "matchmedia-polyfill": "^0.3.2",
     "@testing-library/jest-dom": "^5.11.4",
