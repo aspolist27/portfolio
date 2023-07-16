@@ -64,17 +64,19 @@ const NavBar = () => {
       expanded={expanded}
       expand='sm' >
       <Container fluid>
-        <Navbar.Brand href="/portfolio/">
-          <img
-            src={data?.logo?.source}
-            className="d-inline-block align-top"
-            alt="main logo"
-            style={
-              data?.logo?.height && data?.logo?.width
-                ? { height: data?.logo?.height, width: data?.logo?.width }
-                : styles.logoStyle
-            }
-          />
+        <Navbar.Brand onClick={() => setExpanded(false)}>
+          <NavLink exact to='/'>
+            <img
+              src={data?.logo?.source}
+              className="d-inline-block align-top"
+              alt="main logo"
+              style={
+                data?.logo?.height && data?.logo?.width
+                  ? { height: data?.logo?.height, width: data?.logo?.width }
+                  : styles.logoStyle
+              }
+            />
+          </NavLink>
         </Navbar.Brand>
         <Navbar.Toggle aria-controls={`offcanvasNavbar-expand-sm`} onClick={() => setExpanded(!expanded)} />
         <Navbar.Offcanvas
@@ -83,19 +85,21 @@ const NavBar = () => {
           placement="start"
           className='bg-dark'
         >
-          <Offcanvas.Header onHide={()=>setExpanded(false) } closeVariant='white' closeButton>
+          <Offcanvas.Header onHide={() => setExpanded(false)} closeVariant='white' closeButton>
             <Offcanvas.Title id={`offcanvasNavbarLabel-expand-sm`}>
-              <Navbar.Brand href="/portfolio/">
-                <img
-                  src={data?.logo?.source}
-                  className="d-inline-block align-top"
-                  alt="main logo"
-                  style={
-                    data?.logo?.height && data?.logo?.width
-                      ? { height: data?.logo?.height, width: data?.logo?.width }
-                      : styles.logoStyle
-                  }
-                />
+              <Navbar.Brand onClick={() => setExpanded(false)} >
+                <NavLink exact to='/'>
+                  <img
+                    src={data?.logo?.source}
+                    className="d-inline-block align-top"
+                    alt="main logo"
+                    style={
+                      data?.logo?.height && data?.logo?.width
+                        ? { height: data?.logo?.height, width: data?.logo?.width }
+                        : styles.logoStyle
+                    }
+                  />
+                </NavLink>
               </Navbar.Brand>
             </Offcanvas.Title>
           </Offcanvas.Header>

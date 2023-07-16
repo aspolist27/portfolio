@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "homepage": "https://akshatsoni8055.github.io/portfolio/#/",
-   "engines": {
+  "engines": {
     "node": "14.16.1",
     "npm": "6.4.12"
   },
