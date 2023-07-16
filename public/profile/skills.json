@@ -46,6 +46,10 @@
                     "title": "NextJS"
                 },
                 {
+                    "icon": "images/skills/express.png",
+                    "title": "ExpressJS"
+                },
+                {
                     "icon": "images/skills/react.png",
                     "title": "ReactJS"
                 },
