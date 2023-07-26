@@ -3,8 +3,7 @@
     "skills": [{
      
             "title": "Languages & Databases",
-            "items" : [
-     
+            "items" : [     
                 {
                     "icon": "images/skills/html.png",
                     "title": "HTML"
