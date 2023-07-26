@@ -3,8 +3,7 @@
     "skills": [{
      
             "title": "Languages & Databases",
-            "items" : [
-     
+            "items" : [     
                 {
                     "icon": "images/skills/html.png",
                     "title": "HTML"
@@ -14,12 +13,16 @@
                     "title": "CSS"
                 },
                 {
+                    "icon": "images/skills/wordPress.png",
+                    "title": "WordPress"
+                },
+                {
                     "icon": "images/skills/js.png",
                     "title": "JavaScript"
                 },
                 {
-                    "icon": "images/skills/redis.png",
-                    "title": "Redis"
+                    "icon": "images/skills/firebase.png",
+                    "title": "Firebase"
                 },
                 {
                     "icon": "images/skills/mysql.png",
@@ -42,16 +45,24 @@
             "title": "Frameworks & Technologies",
             "items" : [
                 {
-                    "icon": "images/skills/next.png",
-                    "title": "NextJS"
+                    "icon": "images/skills/python.png",
+                    "title": "Python"
                 },
                 {
                     "icon": "images/skills/express.png",
                     "title": "ExpressJS"
                 },
                 {
+                    "icon": "images/skills/hapi.png",
+                    "title": "HapiJS"
+                },
+                {
                     "icon": "images/skills/react.png",
                     "title": "ReactJS"
+                },
+                {
+                    "icon": "images/skills/angular.png",
+                    "title": "Angular"
                 },
                 {
                     "icon": "images/skills/nodejs.png",
@@ -60,10 +71,6 @@
                 {
                     "icon": "images/skills/graphql.png",
                     "title": "GraphQL"
-                },
-                {
-                    "icon": "images/skills/jest.png",
-                    "title": "Jest"
                 }
             ]
         },
