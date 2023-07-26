@@ -1,0 +1,2 @@
+(this.webpackJsonpportfolio=this.webpackJsonpportfolio||[]).push([[9],{98:function(e,n,t){"use strict";t.r(n),t.d(n,"useCheckMobileScreen",(function(){return r}));var i=t(7),o=t(0),r=function(){var e=Object(o.useState)(window.innerWidth),n=Object(i.a)(e,2),t=n[0],r=n[1],c=function(){r(window.innerWidth)};return Object(o.useEffect)((function(){return window.addEventListener("resize",c),function(){window.removeEventListener("resize",c)}}),[]),t<=768}}}]);
+//# sourceMappingURL=9.b942468b.chunk.js.map
