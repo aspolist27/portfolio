@@ -322,11 +322,11 @@ It has 2 keys, *logo* and *sections*.
             "links": [
                 {
                     "text": "GitHub",
-                    "href": "https://github.com/akshatsoni8055/spring-ball"
+                    "href": "https://github.com/anuragicodelabs/spring-ball"
                 },
                 {
                     "text": "Live",
-                    "href": "https://akshatsoni8055.github.io/spring-ball/"
+                    "href": "https://anuragicodelabs.github.io/spring-ball/"
                 }
             ],
             "tags": [
@@ -342,11 +342,11 @@ It has 2 keys, *logo* and *sections*.
             "links": [
                 {
                     "text": "GitHub",
-                    "href": "https://github.com/akshatsoni8055/dsa375"
+                    "href": "https://github.com/anuragicodelabs/dsa375"
                 },
                 {
                     "text": "Live",
-                    "href": "https://akshatsoni8055.github.io/dsa375/"
+                    "href": "https://anuragicodelabs.github.io/dsa375/"
                 }
             ],
             "tags": [
@@ -363,11 +363,11 @@ It has 2 keys, *logo* and *sections*.
             "links": [
                 {
                     "text": "GitHub",
-                    "href": "https://github.com/akshatsoni8055/allProjects"
+                    "href": "https://github.com/anuragicodelabs/allProjects"
                 },
                 {
                     "text": "Live",
-                    "href": "https://akshatsoni.onrender.com"
+                    "href": "https://anuragicodelabs.onrender.com"
                 }
             ],
             "tags": [
@@ -383,11 +383,11 @@ It has 2 keys, *logo* and *sections*.
             "links": [
                 {
                     "text": "GitHub",
-                    "href": "https://github.com/akshatsoni8055/portfolio"
+                    "href": "https://github.com/anuragicodelabs/portfolio"
                 },
                 {
                     "text": "Live",
-                    "href": "https://akshatsoni8055.github.io/portfolio"
+                    "href": "https://anuragicodelabs.github.io/portfolio"
                 }
             ],
             "tags" : [
@@ -403,11 +403,11 @@ It has 2 keys, *logo* and *sections*.
             "links": [
                 {
                     "text": "GitHub",
-                    "href": "https://github.com/akshatsoni8055/allProjects"
+                    "href": "https://github.com/anuragicodelabs/allProjects"
                 },
                 {
                     "text": "Live",
-                    "href": "https://akshatsoni.onrender.com/hbd"
+                    "href": "https://anuragicodelabs.onrender.com/hbd"
                 }
             ],
             "tags": [
@@ -425,11 +425,11 @@ It has 2 keys, *logo* and *sections*.
             "links": [
                 {
                     "text": "GitHub",
-                    "href": "https://github.com/akshatsoni8055/allProjects"
+                    "href": "https://github.com/anuragicodelabs/allProjects"
                 },
                 {
                     "text": "Live",
-                    "href": "https://akshatsoni.onrender.com/inbox"
+                    "href": "https://anuragicodelabs.onrender.com/inbox"
                 }
             ],
             "tags": [
