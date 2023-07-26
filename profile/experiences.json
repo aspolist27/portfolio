@@ -1,7 +1,7 @@
 {
     "experiences": [
         {
-            "title": "Software Engineer",
+            "title": "Team Lead",
             "subtitle": "Innovative Code Labs Pvt. Ltd.",
             "workType": "Full-time",
             "workDescription": [
@@ -13,11 +13,11 @@
                 "Collaborating closely with clients to understand their requirements and tailored development accordingly",
                 "**Technology**: MERN stack (MongoDB, Express.js, React.js, Node.js), **Sharetribe** (low code platform), **AWS S3**, **AWS Lambda**, **Stripe**"
             ],
-            "dateText": "02/2023 – Present"
+            "dateText": "04/2021 – Present"
         },
         {
-            "title": "Software Engineer",
-            "subtitle": "Inflolabs Pvt. Ltd.",
+            "title": "Senior Software Engineer",
+            "subtitle": "Bridging Technology Pvt. Ltd.",
             "workType": "Full-time",
             "workDescription": [
                 "Developed **Advertising Framework**, **Storefront Optimization**, **Multiple Payment Gateways**  and **Guiding Tour** functionalities.",
@@ -27,7 +27,49 @@
                 "Leveraged Node.js, Express.js, PostgreSQL, and GraphQL for efficient data management and retrieval.",
                 "Tech Involved: **NodeJS**, **ReactJS**, **NextJS**, **Redux**, **GraphQL**, **Videojs**, **React Joyride**, **Jest** Unit Testing"
             ],
-            "dateText": "08/2021 – 01/2023"
+            "dateText": "06/2019 – 04/2021"
+        },
+        {
+            "title": "Software Engineer",
+            "subtitle": "Igniva infotech Pvt. Ltd.",
+            "workType": "Full-time",
+            "workDescription": [
+                "Developed **Advertising Framework**, **Storefront Optimization**, **Multiple Payment Gateways**  and **Guiding Tour** functionalities.",
+                "Led frontend development for the **InternetTV** module.",
+                "Implemented APIs and performed CRUD operations for seamless data management.",
+                "Utilized MERN stack, **GraphQL**, and **microservices architecture** to enhance platform performance and scalability.",
+                "Leveraged Node.js, Express.js, PostgreSQL, and GraphQL for efficient data management and retrieval.",
+                "Tech Involved: **NodeJS**, **ReactJS**, **NextJS**, **Redux**, **GraphQL**, **Videojs**, **React Joyride**, **Jest** Unit Testing"
+            ],
+            "dateText": "04/2018 – 06/2019"
+        },
+        {
+            "title": "Web/Mobile Engineer",
+            "subtitle": "Future Work Technologies Pvt. Ltd.",
+            "workType": "Full-time",
+            "workDescription": [
+                "Developed **Advertising Framework**, **Storefront Optimization**, **Multiple Payment Gateways**  and **Guiding Tour** functionalities.",
+                "Led frontend development for the **InternetTV** module.",
+                "Implemented APIs and performed CRUD operations for seamless data management.",
+                "Utilized MERN stack, **GraphQL**, and **microservices architecture** to enhance platform performance and scalability.",
+                "Leveraged Node.js, Express.js, PostgreSQL, and GraphQL for efficient data management and retrieval.",
+                "Tech Involved: **NodeJS**, **ReactJS**, **NextJS**, **Redux**, **GraphQL**, **Videojs**, **React Joyride**, **Jest** Unit Testing"
+            ],
+            "dateText": "09/2017 – 04/2018"
+        },
+        {
+            "title": "Junior Software Developer",
+            "subtitle": "CodeQuotient Pvt. Ltd.",
+            "workType": "Full-time",
+            "workDescription": [
+                "Developed **Advertising Framework**, **Storefront Optimization**, **Multiple Payment Gateways**  and **Guiding Tour** functionalities.",
+                "Led frontend development for the **InternetTV** module.",
+                "Implemented APIs and performed CRUD operations for seamless data management.",
+                "Utilized MERN stack, **GraphQL**, and **microservices architecture** to enhance platform performance and scalability.",
+                "Leveraged Node.js, Express.js, PostgreSQL, and GraphQL for efficient data management and retrieval.",
+                "Tech Involved: **NodeJS**, **ReactJS**, **NextJS**, **Redux**, **GraphQL**, **Videojs**, **React Joyride**, **Jest** Unit Testing"
+            ],
+            "dateText": "08/2016 – 09/2017"
         }
     ]
 }
